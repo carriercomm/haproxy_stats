@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/dcondomitti/haproxy-ruby
+  revision: d412c189f2e9f96bf542a5c4d16d84ee72d1f8dd
+  branch: fix_backend_query
+  specs:
+    haproxy (0.0.6)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    awesome_print (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  haproxy!
